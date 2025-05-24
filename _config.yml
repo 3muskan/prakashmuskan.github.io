@@ -1,15 +1,15 @@
 # Site settings
-title: Hi, I'm Dominik.
-description: Dominik Haitz' professional portfolio site
+title: Hi, I'm Muskan Prakash.
+description: Muskan Prakash's' professional portfolio site
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Dominik Haitz
-user_title: Dr.
-user_job_title: Data Scientist
-email: dominik.haitz [at] gmx.de
-twitter_username: d_haitz
-github_username:  dhaitz
+username: Muskan Prakash
+user_title: Ms.
+user_summary: Data Analyst with 2+ years of experience leveraging Python, SQL, and Power BI to extract insights, build dashboards, and reducing reporting time by 30% 
+and boosting operational efficiency by 15%. Mastered in forecasting, predictive modeling, and streamlining reporting processes to improve business 
+email:muskanprakash461@gmail.com
+github_username:  3Muskan
 
 exclude: ['package.json', 'src' , 'node_modules']
